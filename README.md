@@ -12,6 +12,8 @@ the pin arrangement is based on F7A1 Design Reference
 
 Hardware overview:
 
+PCB Size: 45 x 30 mm
+
 MCU: STM32F722RET6
 
 IMU Gyro: BMI270
